@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "/Users/yourname/path/to/edu-durable-mcp-tutorial-template",
+          "run",
+          "weather.py"
+        ]
+      }
+    }
+  }
