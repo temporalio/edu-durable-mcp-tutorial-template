@@ -10,3 +10,7 @@ This repository contains the code that goes along with our [`Creating a Durable 
 ## Codespaces
 
 You can launch an exercise environment for this tutorial using GitHub Codespaces by following [this](codespaces.md) walkthrough.
+
+## Credits
+
+Some of this code was taken from and condensed from [this repository](https://github.com/temporal-community/durable-mcp).
